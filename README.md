@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clachworks
+- 👋 Hi, We're @clachworks
 - 👀 We are interested in DIY & sharing resources 
 - 🌱 We are currently learning to make our website
 - 📫 Reach us @clachworks
